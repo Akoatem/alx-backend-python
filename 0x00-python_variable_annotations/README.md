@@ -1,3 +1,1 @@
-0x00. Python - Variable Annotations
-Python
-Back-end
+# Solutions to tasks on Python - Variable Annotations
